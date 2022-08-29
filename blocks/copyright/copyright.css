@@ -1,0 +1,13 @@
+.copyright {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.1;
+    margin: 0;
+}
+
+@media (max-width: 682px) {
+
+    .copyright {
+      line-height: 1;
+    }
+}

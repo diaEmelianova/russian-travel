@@ -1,0 +1,18 @@
+.cover {
+    width: 100%;
+    margin: 0 auto 92px;
+}
+
+@media (max-width: 1023px) {
+
+    .baikal-cover {
+        margin: 0 auto 88px;
+    }
+}
+  
+  @media (max-width: 767px) {
+  
+    .baikal-cover {
+      margin: 0 auto 64px;
+    }
+}

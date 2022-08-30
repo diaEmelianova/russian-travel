@@ -1,12 +1,18 @@
 .header__lang-link {
-    width: 30px;
-    height: 28px;
-    text-decoration: none;
-    font-size: 24px;
-    margin-left: 18px;
-    color: #fff;
+  width: 30px;
+  height: 28px;
+  text-decoration: none;
+  font-size: 24px;
+  margin-left: 18px;
+  color: #fff;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: opacity 0.5s ease;
 }
 
 .header__lang-link_active {
-    text-decoration: underline;
+  text-decoration: underline;
+  margin: 0;
 }

@@ -1,17 +1,17 @@
 .header__logo {
-    width: 176px;
-    height: 72px;
+  width: 176px;
+  height: 72px;
 }
 
 .header__logo:hover {
-    opacity: 0.8;
-    transition: opacity 0.5s ease;
+  opacity: 0.8;
+  transition: opacity 0.5s ease;
 }
-  
-  @media (max-width: 424px) {
-  
-    .logo {
-      width: 142px;
-      height: 42px;
-    }
+
+@media (max-width: 424px) {
+
+  .logo {
+    width: 142px;
+    height: 42px;
+  }
 }

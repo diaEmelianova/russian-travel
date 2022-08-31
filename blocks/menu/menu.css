@@ -4,7 +4,6 @@
 }
 
 @media (max-width: 682px) {
-
   .menu {
     flex-direction: column;
     width: 100%;

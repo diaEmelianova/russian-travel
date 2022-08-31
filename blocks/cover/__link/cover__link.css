@@ -10,6 +10,7 @@
   position: relative;
   text-align: center;
   text-decoration: none;
+  background-position: center;
 }
 
 .cover__link:before {
@@ -28,21 +29,18 @@
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
-
   .cover__link {
     min-height: 640px;
   }
 }
 
 @media (min-width: 425px) and (max-width: 1023px) {
-
   .cover__link {
     min-height: 480px;
   }
 }
 
 @media (max-width: 424px) {
-
   .cover__link {
     min-height: 200px;
   }

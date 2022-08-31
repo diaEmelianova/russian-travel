@@ -4,11 +4,11 @@
   letter-spacing: 0.2em;
   line-height: 1.7;
   margin: 0 0 12px;
+  text-transform: uppercase;
 }
 
 @media (max-width: 1023px) {
-
-  .place__url-heading {
+  .place__url {
     line-height: 1;
   }
 }

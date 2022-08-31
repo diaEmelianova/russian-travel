@@ -7,7 +7,6 @@
 }
 
 @media (max-width: 1023px) {
-
   .place__title {
     font-size: 42px;
     line-height: 1.1;
@@ -15,7 +14,6 @@
 }
 
 @media (max-width: 767px) {
-
   .place__title {
     padding-left: 16px;
     padding-right: 16px;

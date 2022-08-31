@@ -7,7 +7,6 @@
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
-
   .photo-grid {
     width: calc(100% - 48px*2);
     gap: 14px;
@@ -15,23 +14,19 @@
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-
   .photo-grid {
     width: calc(100% - 24px*2);
   }
 }
 
 @media (min-width: 425px) and (max-width: 767px) {
-
   .photo-grid {
     width: calc(100% - 16px*2);
     margin: 0 auto 88px;
-    gap: 16px;
   }
 }
 
 @media (max-width: 424px) {
-
   .photo-grid {
     width: calc(100% - 16px*2);
     margin: 0 auto 64px;

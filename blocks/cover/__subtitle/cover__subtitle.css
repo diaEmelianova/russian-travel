@@ -4,16 +4,13 @@
   line-height: 1.2;
   margin: 0;
   max-width: 360px;
-  min-height: 66px;
   color: #fff;
   z-index: 3;
 }
 
 @media (max-width: 425px) {
-
   .cover__subtitle {
     font-size: 14px;
     line-height: 1.14;
-    min-height: 48px;
   }
 }

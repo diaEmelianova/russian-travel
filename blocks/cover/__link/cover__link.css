@@ -1,6 +1,5 @@
 .cover__link {
   min-height: 740px;
-  display: block;
   display: flex;
   flex-direction: column;
   justify-content: center;
